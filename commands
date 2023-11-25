@@ -1,52 +1,31 @@
---------------------------------------------------------------------
-Die folgenden Commands funktionieren im Twitch-Chat und in Discord!
---------------------------------------------------------------------
-!ask
-    - !ask Warum ist die Banane krumm? - Und ChatGPT antwortet!
+------------------------------------
+Die folgenden Commands funktionieren
+- im Twitch-Chat und in Discord! -
+------------------------------------
+!chat !ruffy !goku
 !clip
-    - Erstellt einen Twitch-Clip und sendet den Link dazu im Chat, oder im Discord.
-    - Abhängig davon, von wo aus der Command abgesendet wurde.
 !commands
-    - Schickt einen Link in den Chat, der zu diesem Dokument leitet
 !game
-    - Schreibt den aktuellen Spieletitel in den Chat.
 !title
-    - Schreibt den aktuellen Streamtitel in den Chat.
 
 
-
---------------------------------------------------------------------
-Die folgenden Commands funktionieren ausschließlich im Twitch-Chat!
---------------------------------------------------------------------
+------------------------------------
+Die folgenden Commands funktionieren
+- ausschließlich im Twitch-Chat! -
+------------------------------------
 !uptime
-    - Wie lange ist der Stream schon online?
 !followage !fa
-    - Wie lange seid ihr schon Follower?
 !watchtime !wt
-    - Wie lange schaut ihr den Stream schon insgesamt?
 !lurk !afk
-    - Aktiviert den "Nur Zuschauer" Modus.
 !unlurk !re
-    - Beendet den "Nur Zuschauer" Modus.
-!donation !donate !dono !coffee !kaffee !spende
-    - Schickt Spenden-Links in den Chat.
+!donation !donate !dono !kaffee !spende
 !socials !social !links !solo
-    - Schickt den Link zu meiner Linkpage in den Chat.
 !discord !dc !invite
-    - Schickt einen Discord-Invite Link in den Chat.
 !trymoin !moin
-    - Link und Rabattcode für eure Bestellung bei TryMoin!
 !gamersgear !gear
-    - Link und Rabattcode für eure Bestellung bei GamersGear!
 !instagram !insta / !ig
-    - Link zum Instragram-Profil.
 !youtube !yt
-    - Link zum Youtube-Profil.
 !tiktok !tt
-    - Link zum Tiktok-Profil.
 !endeffekt
-    - Überraschung... ;-)
 !hug
-    - !hug purpleshave / Knuddelt einen User! <3
 !rehug
-    - !rehug purpleshave / Knuddelt einen User zurück! <3
