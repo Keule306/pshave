@@ -20,29 +20,29 @@ Die folgenden Commands funktionieren ausschließlich im Twitch-Chat!
 --------------------------------------------------------------------
 !uptime
     - Wie lange ist der Stream schon online?
-!followage / !fa
+!followage !fa
     - Wie lange seid ihr schon Follower?
-!watchtime / !wt
+!watchtime !wt
     - Wie lange schaut ihr den Stream schon insgesamt?
-!lurk / !afk
+!lurk !afk
     - Aktiviert den "Nur Zuschauer" Modus.
-!unlurk / !re
+!unlurk !re
     - Beendet den "Nur Zuschauer" Modus.
-!donation / !donate / !dono / !kaffee / !coffee
+!donation !donate !dono !coffee !kaffee !spende
     - Schickt Spenden-Links in den Chat.
-!solo
+!socials !social !links !solo
     - Schickt den Link zu meiner Linkpage in den Chat.
-!discord / !dc / !invite
+!discord !dc !invite
     - Schickt einen Discord-Invite Link in den Chat.
-!trymoin / !moin
+!trymoin !moin
     - Link und Rabattcode für eure Bestellung bei TryMoin!
-!gamersgear / !gear
+!gamersgear !gear
     - Link und Rabattcode für eure Bestellung bei GamersGear!
-!instagram / !insta / !ig
+!instagram !insta / !ig
     - Link zum Instragram-Profil.
-!youtube / !yt
+!youtube !yt
     - Link zum Youtube-Profil.
-!tiktok / !tt
+!tiktok !tt
     - Link zum Tiktok-Profil.
 !endeffekt
     - Überraschung... ;-)
