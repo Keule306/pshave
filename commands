@@ -5,6 +5,8 @@ Die folgenden Commands funktionieren im Twitch-Chat und in Discord!
     - !ask Warum ist die Banane krumm? - Und ChatGPT antwortet!
 !clip
     - Erstellt einen Twitch-Clip und sendet den Link dazu im Chat, oder im Discord. Abhängig davon, von wo aus der Command abgesendet wurde.
+!commands / !cmds
+    - Schickt einen Link in den Chat, der zu diesem Dokument leitet
 !game
     - Schreibt den aktuellen Spieletitel in den Chat.
 !title
@@ -23,7 +25,7 @@ Die folgenden Commands funktionieren ausschließlich im Twitch-Chat!
     - Aktiviert den "Nur Zuschauer" Modus.
 !unlurk / !re
     - Beendet den "Nur Zuschauer" Modus.
-!donate
+!donation / !donate / !dono / !kaffee / !coffee
     - Schickt Spenden-Links in den Chat.
 !solo
     - Schickt den Link zu meiner Linkpage in den Chat.
