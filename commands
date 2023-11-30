@@ -1,9 +1,8 @@
 ----------------------------------------
-Die folgenden Commands funktionieren
-- im Twitch-Chat UND in Discord! -
+- Twitch-Chat und in Discord -
 ----------------------------------------
 !commands
-!chat !ruffy !goku
+!chat !ruffy !goku !naruto - Chatbots
 !game
 !title
 !clip
@@ -15,11 +14,10 @@ Die folgenden Commands funktionieren
 !youtube !yt
 !instagram !insta !ig
 !socials !social !links !solo
-!donation !donate !dono !kaffee !spende
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+!donation !donate !dono !spenden
+
 ----------------------------------------
-Die folgenden Commands funktionieren
-- AUSSCHLIEßLICH im Twitch-Chat! -
+- ausschließlich im Twitch-Chat -
 ----------------------------------------
 !followage !fa
 !watchtime !wt
@@ -28,3 +26,6 @@ Die folgenden Commands funktionieren
 !endeffekt
 !hug
 !rehug
+!wins
+!deaths
+!stats
